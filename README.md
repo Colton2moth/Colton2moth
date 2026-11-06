@@ -1,4 +1,4 @@
-## Hi there 👋
+## Colton Tumoth
 
 <!--
 **Colton2moth/Colton2moth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
